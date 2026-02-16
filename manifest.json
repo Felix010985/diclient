@@ -1,0 +1,30 @@
+{
+  "header": {
+    "uuid": "47e4606d-21f3-478c-9ad1-2c176796efc8",
+    "name": "§l§cD§6i§el§ad§bo§9i§dd §cC§6l§ei§ae§bn§9t",
+    "description": "§aBy FelixProfi",
+    "version": [
+      0,
+      0,
+      1
+    ],
+    "min_engine_version": [
+      1,
+      2,
+      6
+    ]
+  },
+  "modules": [
+    {
+      "description": "§aBy FelixProfi",
+      "version": [
+        0,
+        0,
+        1
+      ],
+      "uuid": "2d953b05-7a95-4faf-9d42-2475fdac4e57",
+      "type": "resources"
+    }
+  ],
+  "format_version": 1
+}
